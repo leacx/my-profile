@@ -1,0 +1,33 @@
+body { 
+	background-color: aliceblue; 
+color: rgb(30, 30, 30);
+font-family: Courier;
+}
+h1{
+font-family: helvetica;
+font-weight: lighter;
+color: steelblue;
+}
+h3{
+	color: lightsteelblue;
+	font-weight: lighter;
+	font-size: large;
+
+}
+h2{
+	color: steelblue;
+	font-family: Courier;
+	font-weight: lighter;
+}
+
+#profile-picture { /* select all elements with the class="img-circle" */
+  border-radius: 50%;
+   border: 10px solid steelblue;
+}
+div{
+	background: white;                         /* White background */
+padding: 30px;                             /* Internal space */
+border-radius: 4px;                        /* Small radius */
+box-shadow: 0 10px 30px rgba(0,0,0,.1);   
+}
+
